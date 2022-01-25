@@ -1,0 +1,11 @@
+name: index
+title:
+username:
+account: biotoxins
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4201310
+bundleId: 4667120
+url: https://biotoxins.shinyapps.io/index/
+when: 1622608815.19254
+lastSyncTime: 1622608815.19258
